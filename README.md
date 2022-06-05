@@ -1,25 +1,63 @@
-[Pesimist/Optimist embracing other side ](https://lifehacker.com/why-even-optimists-should-embrace-their-pessimistic-sid-1829779304)
+# Productivity list
 
-[How to Change Your Personality ](https://lifehacker.com/how-to-change-your-personality-1830317055)
+Contains a curated list of prductivity tips, techniques and hacks.
 
-[How to Reduce the Number of Times You Forget Things Each Day ](https://lifehacker.com/how-to-reduce-the-number-of-times-you-forget-things-eac-1832621933)
+Using a format of MarkDown, plain text and PDF formats.
 
-[Make Your Days More Productive By Timeboxing ](https://lifehacker.com/make-your-days-more-productive-by-timeboxing-1832508849)
+[How is productivity calculated?](https://www.investopedia.com/ask/answers/040715/how-productivity-calculated.asp)
 
-[I Stopped Using a Computer Mouse For a Week and It Was Amazing ](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7iykh9HdS5U/i-stopped-using-a-computer-mouse-for-a-week-and-it-was-amazing)
+- Calculating labor productivity
+- 360-degree feedback
+- Online performance tracking
 
-[Five Things To Do When Planning For Your Digital Death ](https://lifehacker.com/five-things-to-do-when-planning-for-your-digital-death-1826496843)
+[Productivity vs Efficiency](jotform.com/blog/productivity-vs-efficiency/)
 
-[Workers waste half their time as they struggle with data ](https://www.zdnet.com/article/workers-waste-half-their-time-as-they-struggle-with-data/#ftag=RSSbaffb68)
+- Use planners to boost productivity
+- Create block schedules to eliminate distractions
+- Leverage voice-to-text to simplify your day
+- Listen to music to create calm
+- Consider monotasking to drive efficiency
+- Focus on important tasks to strengthen production
+- Set goals to get ahead
+- Prevent burnout
+	- Creating clear boundaries
+	- Organizing job roles
+	- Taking extended vacations when possible
+- Avoid productivity killers
+- Declutter your desk
+- Take practical steps to increase productivity
+
+
+## Subfolders contain ###
+
+* [[Bias]] recognition 
+* [[Health]] topics
+* Dream [[Job]] searching
+* [[Mindset_Change]] in attitude with customer
+
+## Concentration
+[Make Your Days More Productive By Timeboxing+](https://lifehacker.com/make-your-days-more-productive-by-timeboxing-1832508849)
 
 [How to Really Listen in Conversations ](https://lifehacker.com/how-to-really-listen-in-conversations-1826204542)
 
-### Subfolders contain ###
+[How to Reduce the Number of Times You Forget Things Each Day](https://lifehacker.com/how-to-reduce-the-number-of-times-you-forget-things-eac-1832621933)
 
-* Bias recognition
-* Health topics
-* Dream job searching
-* Mindset changing in attitude with customer
+[Strategies to dominate a scattered brain](https://lifehacker.com/use-these-strategies-to-dominate-your-scattered-brain-1848969564)
+
+[ADHD tricks](https://lifehacker.com/you-don-t-need-adhd-to-use-these-adhd-productivity-hack-1848964773)
+
+## Other
+
+
+[Pesimist/Optimist embracing other side](https://lifehacker.com/why-even-optimists-should-embrace-their-pessimistic-sid-1829779304)
+
+
+
+[I Stopped Using a Computer Mouse For a Week and It Was Amazing ](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7iykh9HdS5U/i-stopped-using-a-computer-mouse-for-a-week-and-it-was-amazing)
+
+
+[Workers waste half their time as they struggle with data ](https://www.zdnet.com/article/workers-waste-half-their-time-as-they-struggle-with-data/#ftag=RSSbaffb68)
+
 
 
 
