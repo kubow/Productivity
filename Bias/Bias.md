@@ -2,7 +2,7 @@
 
 [Source](https://www.lifehacker.com.au/2015/09/this-graphic-explains-20-cognitive-biases-that-affect-your-decision-making/)
 
-![[cognitive-biases-that-screw-up-decision-making-min.png]]
+![[./cognitive-biases-that-screw-up-decision-making-min.png]]
 
 Decision making is not an easy process. While everyone sometimes makes a bad decision many of us just keep making wrong decisions each and every day. Have you ever wondered why we keep repeating the same mistakes? This post (and infographic) features 20 cognitive biases that may hinder your decision making process.
 
