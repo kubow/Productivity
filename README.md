@@ -35,29 +35,21 @@ Using a format of MarkDown, plain text and PDF formats.
 * Dream [[Job]] searching
 * [[Mindset_Change]] in attitude with customer
 
-## Concentration
-[Make Your Days More Productive By Timeboxing+](https://lifehacker.com/make-your-days-more-productive-by-timeboxing-1832508849)
-
-[How to Really Listen in Conversations ](https://lifehacker.com/how-to-really-listen-in-conversations-1826204542)
-
-[How to Reduce the Number of Times You Forget Things Each Day](https://lifehacker.com/how-to-reduce-the-number-of-times-you-forget-things-eac-1832621933)
-
-[Strategies to dominate a scattered brain](https://lifehacker.com/use-these-strategies-to-dominate-your-scattered-brain-1848969564)
-
-[ADHD tricks](https://lifehacker.com/you-don-t-need-adhd-to-use-these-adhd-productivity-hack-1848964773)
 
 ## Other
 
 
 [Pesimist/Optimist embracing other side](https://lifehacker.com/why-even-optimists-should-embrace-their-pessimistic-sid-1829779304)
 
-
+[Book Summary: Eat That Frog! by Brian Tracy | Sam Thomas Davies](https://www.samuelthomasdavies.com/book-summaries/business/eat-that-frog/)
 
 [I Stopped Using a Computer Mouse For a Week and It Was Amazing ](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7iykh9HdS5U/i-stopped-using-a-computer-mouse-for-a-week-and-it-was-amazing)
 
 
 [Workers waste half their time as they struggle with data ](https://www.zdnet.com/article/workers-waste-half-their-time-as-they-struggle-with-data/#ftag=RSSbaffb68)
 
+
+[The '3-Email Rule'](https://www.businessinsider.com/the-3-email-rule-2015-5)
 
 
 
