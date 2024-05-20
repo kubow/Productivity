@@ -10,7 +10,7 @@ Using a format of MarkDown, plain text and PDF formats.
 - 360-degree feedback
 - Online performance tracking
 
-[Productivity vs Efficiency](jotform.com/blog/productivity-vs-efficiency/)
+[Productivity vs Efficiency](https://www.jotform.com/blog/productivity-vs-efficiency/)
 
 - Use planners to boost productivity
 - Create block schedules to eliminate distractions
@@ -28,12 +28,15 @@ Using a format of MarkDown, plain text and PDF formats.
 - Take practical steps to increase productivity
 
 
-## Subfolders contain ###
+## Main Topics ###
 
-* [[Bias]] recognition 
-* [[Health]] topics
-* Dream [[Job]] searching
-* [[Mindset_Change]] in attitude with customer
+* [[Bias]] recognition
+* [[Health/README]] and Mental Well-being
+* Dream [[Job/README]] searching
+* Techniques
+	* [[Concetration]]
+	* [[Mindset_Change]] in attitude with customer
+	* [[Motivation drivers]]
 
 
 ## Other
@@ -46,7 +49,7 @@ Using a format of MarkDown, plain text and PDF formats.
 [I Stopped Using a Computer Mouse For a Week and It Was Amazing ](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7iykh9HdS5U/i-stopped-using-a-computer-mouse-for-a-week-and-it-was-amazing)
 
 
-[Workers waste half their time as they struggle with data ](https://www.zdnet.com/article/workers-waste-half-their-time-as-they-struggle-with-data/#ftag=RSSbaffb68)
+
 
 
 [The '3-Email Rule'](https://www.businessinsider.com/the-3-email-rule-2015-5)

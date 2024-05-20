@@ -12,7 +12,23 @@
 
 [3 Types of Motivation: What is driving you and how can you drive others? | Luxoft Blogs](https://www.luxoft.com/blog/3-types-of-motivation-what-is-driving-you-and-how-can-you-drive-others)
 
-1. Need for Achievment
+1. Need for Achievement
 2. Need for Affiliation
 3. Need for Power
 
+Always remember:
+
+1. The past can't be changed.
+2. Opinions do not define your reality.
+3. Everyone's journey is different.
+4. Judgements are not about you.
+5. Overthinking will lead to sadness.
+6. Happiness is found within.
+7. Your thoughts affect your mood.
+8. Smiles are contagious.
+9. Kindness is free.
+10. It's okay to let go and move on.
+11. What goes around, comes around.
+12. Things always get better with time.
+
+[12 Things To Always Remember](https://themindsjournal.com/quotes/12-things-to-always-remember/)
