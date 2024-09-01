@@ -1,12 +1,12 @@
-# Productivity list
+# Productivity topics
 
-Contains a curated list of prductivity tips, techniques and hacks.
+Contains a curated list of productivity tips, techniques and hacks.
 
 Using a format of MarkDown, plain text and PDF formats.
 
 [How is productivity calculated?](https://www.investopedia.com/ask/answers/040715/how-productivity-calculated.asp)
 
-- Calculating labor productivity
+- Calculating labour productivity
 - 360-degree feedback
 - Online performance tracking
 
@@ -28,16 +28,32 @@ Using a format of MarkDown, plain text and PDF formats.
 - Take practical steps to increase productivity
 
 
-## Main Topics ###
+## Main Groups for Productivity Topics ###
 
-* [[Bias]] recognition
-* [[Health/README]] and Mental Well-being
+* * [[Self-Management/Health/README]] and Mental Well-being
 * Dream [[Job/README]] searching
 * Techniques
 	* [[Concetration]]
+	* [Creative Thinking](Creative%20Thinking.md)
 	* [[Mindset_Change]] in attitude with customer
 	* [[Motivation drivers]]
 
+1. **[Self-Management](./Self-Management/README.md)**
+    - Stephen Covey’s _"The 7 Habits of Highly Effective People"_ .
+    - **Mindset and Attitude** topics reflect Carol Dweck’s _"Mindset: The New Psychology of Success"_.
+2. **[Skill Development](./Skills/README.md)**:
+    - Personal Skills
+	    - David Allen’s _"Getting Things Done"_ for task management and focus.
+	    - **Creative Thinking** and **Learning** are influenced by Edward de Bono’s work on lateral thinking and lifelong learning principles.
+    - Interpersonal
+	    - Dale Carnegie’s _"How to Win Friends and Influence People"_ and other communication-focused literature.
+	    - **Networking** Keith Ferrazzi in _"Never Eat Alone"_.
+1. **[Career and Professional Growth](./Career/README.md)**:
+    - Richard Bolles in _"What Color Is Your Parachute?"_ (job search and career planning).
+    - Leadership principles draw from books like John Maxwell’s _"The 21 Irrefutable Laws of Leadership"_.
+2. **Work-Life Integration**:
+    - This reflects the ideas in _"The Power of Full Engagement"_ by Jim Loehr and Tony Schwartz.
+    - **Mindfulness and Relaxation** Jon Kabat-Zinn’s work on mindfulness-based stress reduction.
 
 ## Other
 

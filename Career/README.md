@@ -6,6 +6,15 @@
 
 ## Topics
 
+- **Career Development**
+    - Dream Job Search
+    - Career Planning and Progression
+    - Networking and Professional Relationships
+- **Job Performance**
+    - Workplace Productivity (Task Management, Deep Work)
+    - Leadership and Influence (Leadership Skills, Persuasion)
+    - Customer Interaction (Mindset Adjustment, Negotiation)
+
 - [[Present]]
 - [[Change]]
 - [[Management]]
