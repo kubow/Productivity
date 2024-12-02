@@ -31,6 +31,9 @@
 
 [Workers waste half their time as they struggle with data ](https://www.zdnet.com/article/workers-waste-half-their-time-as-they-struggle-with-data/#ftag=RSSbaffb68)
 
+[The '3-Email Rule'](https://www.businessinsider.com/the-3-email-rule-2015-5)
+
+[I Stopped Using a Computer Mouse For a Week and It Was Amazing ](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7iykh9HdS5U/i-stopped-using-a-computer-mouse-for-a-week-and-it-was-amazing)
 
 
 ## Remote Job
