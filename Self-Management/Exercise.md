@@ -6,6 +6,8 @@
 
 [How to Improve Your Ankle Mobility for Squats](https://vitals.lifehacker.com/how-to-improve-your-ankle-mobility-for-squats-1842315361)
 
+[I Tried Andrew Huberman's Morning Routine - \[30 Days + Blood Tests\] - YouTube](https://www.youtube.com/watch?v=roK4g1e28mM)
+
 Walking daily benefits:
 - Helps in weight loss
 - Increases lung capacity
