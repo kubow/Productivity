@@ -2,24 +2,26 @@
 
 - **[Professional Skills](Professional.md)**
     - Industry-Specific Skills (e.g., Technical Competencies, Certifications)
-    - Project Management (e.g., Agile, Scrum)
-    - Leadership and Management (e.g., Team Management, Decision-Making)
+    - [Project Management Basics](./Project-Management-Basics.md) (e.g., Agile, Scrum)
+    - [Leadership Models](./Leadership-Models.md) and Management (e.g., Team Management, Decision-Making)
 - **Career Planning and Advancement**
-    - Networking and Relationship Building
-    - Job Searching and Interviewing
-    - Personal Branding and Resume Building
-    - Career Goal Setting and Achievement
+    - [Networking and Relationship Building](../Interpersonal-Development/Networking-Relationship-Building.md)
+    - [Job Interview Guide](./Job-Interview.md) and Interviewing
+    - [Personal Branding](./Personal-Branding.md) and Resume Building
+    - Career Goal Setting and Achievement (see [Goal Setting](../Self-Management/Goal-Setting.md))
 - **Learning and Growth**
     - Continuing Education (e.g., Courses, Workshops)
     - Mentorship and Coaching
     - Adaptability and Learning Agility
 - **Job Performance**
     - Workplace Productivity (Task Management, Deep Work)
-    - Leadership and Influence (Leadership Skills, Persuasion)
+    - [Leadership Models](./Leadership-Models.md) and Influence (Leadership Skills, Persuasion)
     - [Delegation](Delegation.md)
     - Customer Interaction (Mindset Adjustment, Negotiation)
 
-- [[Present]]
+- [Present](./Present.md)
+- [Storytelling](./Storytelling.md)
+- [Speech & Vocal Delivery](./Speech.md)
 
 - [How to keep your employees satisfied in the workplace ](https://www.zdnet.com/article/how-to-keep-your-employees-satisfied-in-the-workplace/)
 - [Good technology and worker happiness go hand in hand ](https://www.zdnet.com/article/good-technology-and-worker-happiness-go-hand-in-hand/)
