@@ -59,5 +59,8 @@ Managing email and communication effectively to reduce overwhelm and improve res
 
 ## Resources
 
-- [ ] Add resources and links here
+- [Inbox Zero — Merlin Mann](https://www.43folders.com/2006/09/06/inbox-zero-video)
+- [Gmail filters and labels — Google Support](https://support.google.com/mail/answer/6576)
+- [Email management — Harvard Business Review](https://hbr.org/2018/01/how-to-get-your-inbox-to-zero-every-day)
+- [The 3-Email Rule — Business Insider](https://www.businessinsider.com/the-3-email-rule-2015-5)
 

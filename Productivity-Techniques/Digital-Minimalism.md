@@ -87,8 +87,11 @@ Reducing digital distractions and creating a healthier relationship with technol
 - Set consumption limits
 - Regular audits
 - Unsubscribe from noise
+- For reading strategies and source evaluation, see [Reading & Information Consumption](../Personal-Development/Reading-Information-Consumption.md).
 
 ## Resources
 
-- [ ] Add resources and links here
+- Newport, C. (2019). *Digital Minimalism: Choosing a Focused Life in a Noisy World*. [Cal Newport](https://www.calnewport.com/books/digital-minimalism/)
+- [Unplugging and digital detox — Healthline](https://www.healthline.com/health/mental-health/digital-detox)
+- [Notification and focus settings — Apple / Android](https://support.apple.com/guide/iphone/set-up-focus-iphone-90606b0e/ios) and similar for Android
 

@@ -65,5 +65,8 @@ Automating repetitive tasks and optimizing workflows to save time and reduce err
 
 ## Resources
 
-- [ ] Add resources and links here
+- [Zapier — Automate workflows](https://zapier.com/)
+- [IFTTT — If This Then That](https://ifttt.com/)
+- [Keyboard shortcuts and macros — support docs](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-workspace-2d0a2c2e-4c2e-4c2e-4c2e) (example: Microsoft)
+- [Workflow optimization — Asana](https://asana.com/resources/workflow-management)
 

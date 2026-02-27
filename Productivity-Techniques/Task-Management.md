@@ -73,7 +73,13 @@ Visual workflow management:
 - Defining clear outcomes
 - Estimating time and effort
 
+## References
+
+- Allen, D. (2001). *Getting Things Done: The Art of Stress-Free Productivity*. Penguin. [GTD official](https://gettingthingsdone.com/)
+- Eisenhower Matrix: [Eisenhower Box](https://www.eisenhower.me/eisenhower-matrix/) (attributed to Dwight D. Eisenhower)
+- Kanban: [Kanban Guide](https://www.atlassian.com/agile/kanban) (Atlassian)
+
 ## Resources
 
-- [ ] Add resources and links here
+- [ ] Add further resources and links here
 
