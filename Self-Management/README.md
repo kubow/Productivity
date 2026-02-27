@@ -1,19 +1,27 @@
 # Self-Management
 
 - **Mindset and Attitude**
-    - [bias](./bias/bias.md) recognition
-    - Proactivity
-    - Growth Mindset
-    - Resilience
-    - Positivity and Gratitude
+    - [Bias recognition](./bias/bias.md)
+    - [Proactivity](./proactive/Proactivity.md)
+    - [Mindset](./Mindset.md) — Growth mindset, resilience, positivity
+    - [Habit Systems](./Habit-Systems.md)
+    - [Energy Management](./Energy-Management.md)
+    - [Review & Reflection Systems](./Review-Reflection-Systems.md)
+    - [Work-Life Integration](./Work-Life-Integration.md) — See also [Boundaries](../Interpersonal-Development/Boundaries.md) for communicating and maintaining boundaries with others.
+    - [Financial Productivity](./Financial-Productivity.md)
 - **Motivation and Goal Setting**
-    - Motivation Drivers
-    - Goal Setting and Achievement
-    - Overcoming Procrastination
+    - [Motivation Drivers](./motivation/Motivation-Drivers.md)
+    - [Goal Setting and Achievement](./Goal-Setting.md)
+    - [Overcoming Procrastination](./Procrastination.md)
 - **Health and Well-being**
-    - Physical Health (Exercise, Nutrition)
-    - Mental Health (Stress Management, Mindfulness)
-    - Sleep and Rest
+    - Physical Health ([Exercise](./Exercise.md), [Nutrition](./Eat_Drink.md))
+    - Mental Health ([Stress Management](./Stress-Management-Techniques.md), [Mindfulness](./Meditate.md))
+    - [Sleep and Rest](./sleep/Sleep.md)
+    - [Getting Organized](./Getting-Organized.md) — Home, desk, tech, email, and to-dos
+- [Burnout Prevention & Recovery](./Burnout-Prevention-Recovery.md)
+- [Recovery & Deliberate Rest](./Recovery-Rest.md)
+- [Routines](./Routines.md) — Morning and evening routines
+- [Workspace & Environment Optimization](./Workspace-Environment-Optimization.md)
 
 
 # Health
@@ -28,11 +36,11 @@
 
 [How to Change Your Personality](https://lifehacker.com/how-to-change-your-personality-1830317055)
 
-1. [[Eat_Drink]] Healthily 
-2. Get Adequate [[Sleep]] (Rest regularly)
-3. [[Exercise]] Daily (Sport/Walk)
-4. Maintain Good [[Posture]]
-5. [[Meditate]]
+1. [Eat_Drink](./Eat_Drink.md) Healthily 
+2. Get Adequate [Sleep](./sleep/Sleep.md) (Rest regularly)
+3. [Exercise](./Exercise.md) Daily (Sport/Walk)
+4. Maintain Good [Posture](./posture/Posture.md)
+5. [Meditate](./Meditate.md)
 6. Read Books
 
 Holy triad of Mental Health:
@@ -41,7 +49,7 @@ Holy triad of Mental Health:
 - Always be thankful
 - Be open to someone
 
-![[common-interconnected-levels-of-brain-mental_health.jpg]]
+![common interconnected levels of brain mental health](./brain/common-interconnected-levels-of-brain-mental_health.jpg)
 
 Detailed tips for better Mental Health
 
