@@ -7,12 +7,16 @@
 - **Cognitive Skills**
     - Problem Solving
     - Critical Thinking
-    - Creative Thinking
+    - [Creative Thinking](./Creative-Thinking.md)
+    - [Decision-Making Frameworks](./Decision-Making-Frameworks.md)
 - **Productivity Skills**
-    - Time Management (Time Blocking, Prioritisation)
-    - Task Management
-    - Focus and [Concentration](./Concetration.md) Techniques
-    - Efficiency and Optimisation (Automation, Process Improvement)
+    - Time Management ([Time Blocking](../Productivity-Techniques/Time-Blocking-Calendar-Management.md), Prioritisation)
+    - [Task Management](../Productivity-Techniques/Task-Management.md)
+    - Focus and [Concentration](./Concentration.md) Techniques
+    - Efficiency and Optimisation ([Automation](../Productivity-Techniques/Automation-Workflows.md), Process Improvement)
+    - [Learning & Knowledge Management](./Learning-Knowledge-Management.md)
+    - [Reading & Information Consumption](./Reading-Information-Consumption.md)
+    - Saying no and protecting priorities — see [Saying No](../Interpersonal-Development/Saying-No.md)
 
 
 ## Critical Thinking
