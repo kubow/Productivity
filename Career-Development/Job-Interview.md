@@ -4,8 +4,6 @@
 
 A comprehensive guide to common interview questions and how to answer them effectively.
 
-![Job Interview Cheat Sheet](./job_interview.jpeg)
-
 ## Common Interview Questions
 
 ### 1. Describe a time when you went above and beyond at work.
@@ -260,7 +258,10 @@ A comprehensive guide to common interview questions and how to answer them effec
 
 Use this method for behavioral interview questions to provide structured, compelling answers.
 
-## Resources
+## References & resources
 
-- [ ] Add resources and links here
+- [Job interview tips — Indeed](https://www.indeed.com/career-advice/interviewing)
+- [STAR method — Indeed](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique)
+- [What Color Is Your Parachute? — job search](https://www.parachutebook.com/)
+- [Questions to ask interviewers — The Muse](https://www.themuse.com/advice/interview-questions-to-ask-asker)
 

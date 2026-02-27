@@ -11,13 +11,13 @@
     - Career Goal Setting and Achievement (see [Goal Setting](../Self-Management/Goal-Setting.md))
 - **Learning and Growth**
     - Continuing Education (e.g., Courses, Workshops)
-    - Mentorship and Coaching
+    - [Mentorship and Coaching](../Interpersonal-Development/Mentorship-Coaching.md)
     - Adaptability and Learning Agility
 - **Job Performance**
     - Workplace Productivity (Task Management, Deep Work)
     - [Leadership Models](./Leadership-Models.md) and Influence (Leadership Skills, Persuasion)
-    - [Delegation](Delegation.md)
-    - Customer Interaction (Mindset Adjustment, Negotiation)
+    - [Delegation](./Delegation.md)
+    - Customer Interaction (Mindset Adjustment, [Negotiation](./Negotiation.md))
 
 - [Present](./Present.md)
 - [Storytelling](./Storytelling.md)
@@ -38,6 +38,9 @@
 [I Stopped Using a Computer Mouse For a Week and It Was Amazing ](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7iykh9HdS5U/i-stopped-using-a-computer-mouse-for-a-week-and-it-was-amazing)
 
 
-## Remote Job
+## Remote Work
+
+- [Remote Work & Productivity](./Remote-Work-Productivity.md) — Focus, communication, and boundaries when working remotely
+- [How to Survive the Challenges of Working Remotely](https://lifehacker.com/how-to-survive-the-challenges-of-working-remotely-1832239650)
 
 [How to Survive the Challenges of Working Remotely ](https://lifehacker.com/how-to-survive-the-challenges-of-working-remotely-1832239650)

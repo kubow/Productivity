@@ -2,9 +2,19 @@
 
 ## Overview
 
-Understanding different leadership styles helps you identify your own approach and adapt your leadership style to different situations and team needs.
+- [Transformational](#1-transformational)
+- [Servant](#2-servant)
+- [Democratic](#3-democratic)
+- [Affiliative](#4-affiliative)
+- [Pacesetting](#5-pacesetting)
+- [Transactional](#6-transactional)
+- [Autocratic](#7-autocratic)
+- [Laissez-Faire](#8-laissez-faire)
+- [Charismatic](#9-charismatic)
+- [Ethical](#10-ethical)
+- [Factors to Consider](#factors-to-consider)
+- [Situational Leadership](#situational-leadership)
 
-![10 Leadership Models](./leadership_models.png)
 
 ## Leadership Styles
 
@@ -184,7 +194,10 @@ The most effective leaders adapt their style to the situation:
 4. **Seek Feedback:** Ask team members about your leadership approach
 5. **Continuous Learning:** Study different leadership models and techniques
 
-## Resources
+## References & resources
 
-- [ ] Add resources and links here
+- [Leadership styles — Mind Tools](https://www.mindtools.com/ahzxvtd/leadership-styles)
+- [Situational leadership — Wikipedia](https://en.wikipedia.org/wiki/Situational_leadership_theory)
+- Maxwell, J. *The 21 Irrefutable Laws of Leadership*. Thomas Nelson.
+- [Transformational vs transactional leadership — Verywell Mind](https://www.verywellmind.com/transformational-leadership-2795311)
 

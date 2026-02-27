@@ -52,6 +52,8 @@
 
 ## Digital Communication
 
+For inbox and email workflow management, see [Email & Communication Management](../Productivity-Techniques/Email-Communication-Management.md).
+
 [6 ways to write irresistibly effective emails ](https://www.inc.com/jeff-haden/6-ways-to-write-irresistibly-effective-emails.html)
 
 [6 simple ways to make your emails more impactful ](https://fundbox.com/blog/6-simple-ways-to-make-your-emails-more-impactful/)

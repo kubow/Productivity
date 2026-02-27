@@ -202,8 +202,10 @@ Almost like archetypes: 2-axis, world state, development in time
 
 ---
 
-## Resources
+## References & resources
 
+- Heath, C. & Heath, D. *Made to Stick: Why Some Ideas Survive and Others Die*. Random House. — SUCCESs (Simple, Unexpected, Concrete, Credible, Emotional, Stories). [Wikipedia](https://en.wikipedia.org/wiki/Made_to_Stick)
+- Sinek, S. *Start with Why: How Great Leaders Inspire Everyone to Take Action*. — Purpose and narrative. [startwithwhy.com](https://startwithwhy.com/)
 - [How to Speak in Front of Large Groups of People When You're an Introvert and It Terrifies You](https://verysmartbrothas.theroot.com/how-to-speak-in-front-of-large-groups-of-people-when-yo-1825786173)
-- [ ] Add more resources and links here
+- [StoryBrand framework](https://storybrand.com/) — Donald Miller
 
