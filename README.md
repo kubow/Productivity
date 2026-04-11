@@ -30,25 +30,25 @@ Using a format of MarkDown, plain text and PDF formats.
 
 ## Main Groups for Productivity Topics ###
 
-* * [[Self-Management/Health/README]] and Mental Well-being
-* Dream [[Job/README]] searching
+* * [Self-Management](./Self-Management/README.md) and Mental Well-being
+* Dream Job searching (see [Career Development](./Career-Development/README.md))
 * Techniques
-	* [[Concetration]]
-	* [Creative Thinking](Creative%20Thinking.md)
-	* [[Mindset_Change]] in attitude with customer
-	* [[Motivation drivers]]
+	* [Concentration](./Personal-Development/Concentration.md)
+	* Creative Thinking (see [Personal Development](./Personal-Development/README.md))
+	* Mindset adjustment in attitude with customer (see [Career Development](./Career-Development/README.md))
+	* [Motivation Drivers](./Self-Management/motivation/Motivation-Drivers.md)
 
 1. **[Self-Management](./Self-Management/README.md)**
     - Stephen Covey’s _"The 7 Habits of Highly Effective People"_ .
     - **Mindset and Attitude** topics reflect Carol Dweck’s _"Mindset: The New Psychology of Success"_.
-2. **[Personal Development](./Personal-Developement/README.md)**:
+2. **[Personal Development](./Personal-Development/README.md)**:
     - Personal Skills
 	    - David Allen’s _"Getting Things Done"_ for task management and focus.
 	    - **Creative Thinking** and **Learning** are influenced by Edward de Bono’s work on lateral thinking and lifelong learning principles.
 3. **[Interpersonal Development](./Interpersonal-Development/README.md)**:
 	    - Dale Carnegie’s _"How to Win Friends and Influence People"_ and other communication-focused literature.
 	    - **Networking** Keith Ferrazzi in _"Never Eat Alone"_.
-4. **[Career and Professional Developement](Career-Development/README.md)**:
+4. **[Career and Professional Development](./Career-Development/README.md)**:
     - Richard Bolles in _"What Color Is Your Parachute?"_ (job search and career planning).
     - Leadership principles draw from books like John Maxwell’s _"The 21 Irrefutable Laws of Leadership"_.
 5. **[Productivity Techniques](./Productivity-Techniques/README.md)**:
@@ -60,9 +60,18 @@ Using a format of MarkDown, plain text and PDF formats.
 
 [Book Summary: Eat That Frog! by Brian Tracy | Sam Thomas Davies](https://www.samuelthomasdavies.com/book-summaries/business/eat-that-frog/)
 
+## Key books & sources
 
+Core titles referenced across the notes (by theme). See each note’s **References** or **Resources** for links and details.
 
-
+| Theme | Books / sources |
+|-------|------------------|
+| **Self-management & habits** | Covey — *The 7 Habits of Highly Effective People*; Dweck — *Mindset*; Duhigg — *The Power of Habit*; Clear — *Atomic Habits*; Loehr & Schwartz — *The Power of Full Engagement*; Kabat-Zinn — mindfulness (MBSR). |
+| **Productivity & focus** | Allen — *Getting Things Done*; Newport — *Deep Work*, *Digital Minimalism*; Tracy — *Eat That Frog!*; Keller — *The One Thing*; Csikszentmihalyi — *Flow*. |
+| **Goals & priorities** | Doerr — *Measure What Matters* (OKRs); McKeown — *Essentialism*. |
+| **Interpersonal & communication** | Carnegie — *How to Win Friends and Influence People*; Ferrazzi — *Never Eat Alone*; Fisher & Ury — *Getting to Yes*; Patterson et al. — *Crucial Conversations*; Rosenberg — *Nonviolent Communication*; Scott — *Radical Candor*. |
+| **Career & leadership** | Bolles — *What Color Is Your Parachute?*; Maxwell — *The 21 Irrefutable Laws of Leadership*; Sinek — *Start with Why*; Cain — *Quiet* (introverts at work). |
+| **Thinking & decisions** | de Bono — *Six Thinking Hats*, lateral thinking; Munger — mental models; Kahneman — *Thinking, Fast and Slow* (bias); Heath & Heath — *Made to Stick* (ideas that stick). |
 
 ## Keys Success Factors
 
