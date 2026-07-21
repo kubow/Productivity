@@ -1,83 +1,70 @@
-# Productivity topics
+# Productivity Knowledge Base
 
-Contains a curated list of productivity tips, techniques and hacks.
+A curated collection of practical guides for doing meaningful work, managing yourself, learning, collaborating, and developing a career. The [People and Ideas](./People-and-Ideas.md) index records the collection’s intellectual influences; the [Resource Library](./Resource-Library.md) indexes supporting images, PDFs, and video.
 
-Using a format of MarkDown, plain text and PDF formats.
+## Start Here
 
-[How is productivity calculated?](https://www.investopedia.com/ask/answers/040715/how-productivity-calculated.asp)
+1. Decide what matters with [Goal Setting](./Self-Management/Goal-Setting.md) and [Prioritization](./Productivity-Techniques/Prioritization.md).
+2. Turn it into action with [Planning Rituals](./Productivity-Techniques/Planning-Ritual.md), [Task Management](./Productivity-Techniques/Task-Management.md), and [Time Blocking](./Productivity-Techniques/Time-Blocking-Calendar-Management.md).
+3. Protect attention with [Deep Work](./Productivity-Techniques/Deep-Work-Focus.md), [Concentration Techniques](./Productivity-Techniques/Concentration.md), and [Digital Minimalism](./Productivity-Techniques/Digital-Minimalism.md).
+4. Make the system sustainable with [Energy Management](./Self-Management/Energy-Management.md), [Recovery](./Self-Management/Recovery-Rest.md), and [Review and Reflection](./Self-Management/Review-Reflection-Systems.md).
+5. Work well with others through [Effective Listening](./Interpersonal-Development/Effective-Listening.md), [Written Communication](./Interpersonal-Development/Written-Communication.md), and [Feedback](./Interpersonal-Development/Feedback.md).
 
-- Calculating labour productivity
-- 360-degree feedback
-- Online performance tracking
+## Success Factors
 
-[Productivity vs Efficiency](https://www.jotform.com/blog/productivity-vs-efficiency/)
+What matters most:
 
-- Use planners to boost productivity
-- Create block schedules to eliminate distractions
-- Leverage voice-to-text to simplify your day
-- Listen to music to create calm
-- Consider monotasking to drive efficiency
-- Focus on important tasks to strengthen production
-- Set goals to get ahead
-- Prevent burnout
-	- Creating clear boundaries
-	- Organizing job roles
-	- Taking extended vacations when possible
-- Avoid productivity killers
-- Declutter your desk
-- Take practical steps to increase productivity
+1. Adapt how I communicate to different people and personalities.
+2. Give myself enough time to prepare.
+3. Listen carefully to understand people’s needs.
+4. Be eager to find alternatives.
+5. Give and receive.
 
+## Main Categories
 
-## Main Groups for Productivity Topics ###
+### [Productivity Techniques](./Productivity-Techniques/README.md)
 
-* * [Self-Management](./Self-Management/README.md) and Mental Well-being
-* Dream Job searching (see [Career Development](./Career-Development/README.md))
-* Techniques
-	* [Concentration](./Personal-Development/Concentration.md)
-	* Creative Thinking (see [Personal Development](./Personal-Development/README.md))
-	* Mindset adjustment in attitude with customer (see [Career Development](./Career-Development/README.md))
-	* [Motivation Drivers](./Self-Management/motivation/Motivation-Drivers.md)
+Operational systems for tasks, priorities, planning, calendars, focus, communication, organization, and automation.
 
-1. **[Self-Management](./Self-Management/README.md)**
-    - Stephen Covey’s _"The 7 Habits of Highly Effective People"_ .
-    - **Mindset and Attitude** topics reflect Carol Dweck’s _"Mindset: The New Psychology of Success"_.
-2. **[Personal Development](./Personal-Development/README.md)**:
-    - Personal Skills
-	    - David Allen’s _"Getting Things Done"_ for task management and focus.
-	    - **Creative Thinking** and **Learning** are influenced by Edward de Bono’s work on lateral thinking and lifelong learning principles.
-3. **[Interpersonal Development](./Interpersonal-Development/README.md)**:
-	    - Dale Carnegie’s _"How to Win Friends and Influence People"_ and other communication-focused literature.
-	    - **Networking** Keith Ferrazzi in _"Never Eat Alone"_.
-4. **[Career and Professional Development](./Career-Development/README.md)**:
-    - Richard Bolles in _"What Color Is Your Parachute?"_ (job search and career planning).
-    - Leadership principles draw from books like John Maxwell’s _"The 21 Irrefutable Laws of Leadership"_.
-5. **[Productivity Techniques](./Productivity-Techniques/README.md)**:
-    - This reflects the ideas in _"The Power of Full Engagement"_ by Jim Loehr and Tony Schwartz.
-    - **Mindfulness and Relaxation** Jon Kabat-Zinn’s work on mindfulness-based stress reduction.
+### [Self-Management and Well-being](./Self-Management/README.md)
 
+Goals, habits, motivation, mindset, energy, resilience, health, recovery, and sustainable routines.
 
-[Pesimist/Optimist embracing other side](https://lifehacker.com/why-even-optimists-should-embrace-their-pessimistic-sid-1829779304)
+### [Thinking and Learning](./Personal-Development/README.md)
 
-[Book Summary: Eat That Frog! by Brian Tracy | Sam Thomas Davies](https://www.samuelthomasdavies.com/book-summaries/business/eat-that-frog/)
+Critical and creative thinking, problem-solving, decision-making, cognitive biases, learning, and information consumption.
 
-## Key books & sources
+### [Interpersonal Development](./Interpersonal-Development/README.md)
 
-Core titles referenced across the notes (by theme). See each note’s **References** or **Resources** for links and details.
+Listening, writing, presenting, collaboration, boundaries, feedback, conflict, influence, negotiation, and relationships.
 
-| Theme | Books / sources |
-|-------|------------------|
-| **Self-management & habits** | Covey — *The 7 Habits of Highly Effective People*; Dweck — *Mindset*; Duhigg — *The Power of Habit*; Clear — *Atomic Habits*; Loehr & Schwartz — *The Power of Full Engagement*; Kabat-Zinn — mindfulness (MBSR). |
-| **Productivity & focus** | Allen — *Getting Things Done*; Newport — *Deep Work*, *Digital Minimalism*; Tracy — *Eat That Frog!*; Keller — *The One Thing*; Csikszentmihalyi — *Flow*. |
-| **Goals & priorities** | Doerr — *Measure What Matters* (OKRs); McKeown — *Essentialism*. |
-| **Interpersonal & communication** | Carnegie — *How to Win Friends and Influence People*; Ferrazzi — *Never Eat Alone*; Fisher & Ury — *Getting to Yes*; Patterson et al. — *Crucial Conversations*; Rosenberg — *Nonviolent Communication*; Scott — *Radical Candor*. |
-| **Career & leadership** | Bolles — *What Color Is Your Parachute?*; Maxwell — *The 21 Irrefutable Laws of Leadership*; Sinek — *Start with Why*; Cain — *Quiet* (introverts at work). |
-| **Thinking & decisions** | de Bono — *Six Thinking Hats*, lateral thinking; Munger — mental models; Kahneman — *Thinking, Fast and Slow* (bias); Heath & Heath — *Made to Stick* (ideas that stick). |
+### [Career and Leadership](./Career-Development/README.md)
 
-## Keys Success Factors
+Career planning, job search, interviews, professional growth, leadership, delegation, project management, and remote work.
 
-1. learn to speak with various persona
-2. have time to prepare myself
-3. listening in people needs
-4. be eager on finding alternatives
-5. give & get
+## How the Categories Work
 
+Each topic has one canonical home. Other categories link to it when the skill crosses boundaries. For example, presentation is an interpersonal skill used in career development, while concentration is a productivity technique supported by self-management practices such as sleep and recovery.
+
+## Suggested Learning Paths
+
+- **Build a personal system:** goals → priorities → planning → tasks → review
+- **Improve focused work:** energy → environment → concentration → deep work → recovery
+- **Become a stronger communicator:** listening → writing → feedback → conflict → influence
+- **Develop your career:** career plan → professional materials → networking → interview → performance and growth
+- **Improve judgment:** critical thinking → biases → decision frameworks → problem-solving → reflection
+
+## Key Books and Sources
+
+| Theme | Starting points |
+|---|---|
+| Self-management and habits | Stephen Covey, Carol Dweck, Charles Duhigg, James Clear |
+| Productivity and focus | David Allen, Cal Newport, Brian Tracy, Gary Keller, Mihaly Csikszentmihalyi |
+| Goals and priorities | John Doerr, Greg McKeown |
+| Communication and relationships | Dale Carnegie, Keith Ferrazzi, Roger Fisher and William Ury, Marshall Rosenberg, Kim Scott |
+| Career and leadership | Richard Bolles, John Maxwell, Simon Sinek |
+| Thinking and decisions | Edward de Bono, Charlie Munger, Daniel Kahneman, Chip and Dan Heath |
+
+Individual notes contain their own references and related-topic links.
+
+See [People and Ideas](./People-and-Ideas.md) for why each major thinker is included and where their ideas are used.
