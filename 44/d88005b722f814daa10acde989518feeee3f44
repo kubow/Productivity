@@ -1,0 +1,31 @@
+Personal-Development/Learning-Knowledge-Management.md
+  s_f19b42056c8ce1::t_ebb1cd85f37181 45-47
+  s_f19b42056c8ce1::t_bb17413afccd92 80
+People-and-Ideas.md
+  s_f19b42056c8ce1::t_ebb1cd85f37181 1-111
+Personal-Development/Decision-Making-Frameworks.md
+  s_f19b42056c8ce1::t_ebb1cd85f37181 41,71
+Personal-Development/Critical-Thinking.md
+  s_f19b42056c8ce1::t_ebb1cd85f37181 74,78
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "44d88005b722f814daa10acde989518feeee3f44",
+  "prompts": {},
+  "humans": {
+    "h_0907ec034f4a17": {
+      "author": "kubow <kube.kubow@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_f19b42056c8ce1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f84f7-a14f-78d2-b3ac-35ff85ee3eb9",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kubow <kube.kubow@gmail.com>"
+    }
+  }
+}
