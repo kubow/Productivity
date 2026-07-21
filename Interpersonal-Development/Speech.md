@@ -211,8 +211,3 @@ Effective vocal delivery is crucial for engaging your audience and conveying you
 - Rest your voice when needed
 
 ---
-
-## Resources
-
-- [ ] Add resources and links here
-

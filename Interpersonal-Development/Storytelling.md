@@ -208,4 +208,3 @@ Almost like archetypes: 2-axis, world state, development in time
 - Sinek, S. *Start with Why: How Great Leaders Inspire Everyone to Take Action*. — Purpose and narrative. [startwithwhy.com](https://startwithwhy.com/)
 - [How to Speak in Front of Large Groups of People When You're an Introvert and It Terrifies You](https://verysmartbrothas.theroot.com/how-to-speak-in-front-of-large-groups-of-people-when-yo-1825786173)
 - [StoryBrand framework](https://storybrand.com/) — Donald Miller
-

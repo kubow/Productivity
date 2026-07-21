@@ -1,4 +1,4 @@
-# How to Be the Most Organized Person in the World
+# Getting Organized
 
 A practical guide to organizing physical spaces and digital life. Covers home, workspace, tech, email, and task management.
 

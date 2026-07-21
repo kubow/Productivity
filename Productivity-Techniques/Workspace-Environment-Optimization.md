@@ -77,4 +77,3 @@ Creating an optimal physical and digital workspace to support productivity and w
 - [Ergonomic guidelines — OSHA](https://www.osha.gov/ergonomics)
 - [Desk setup and posture — Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/office-ergonomics/art-20046169)
 - [Digital workspace organization — Zapier](https://zapier.com/blog/organize-digital-files/)
-
