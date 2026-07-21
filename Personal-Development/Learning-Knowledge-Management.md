@@ -42,6 +42,9 @@ Effective learning and knowledge management systems help you retain information,
 - More effective than re-reading
 
 ### Feynman Technique
+
+Named for an explanatory approach associated with physicist and teacher Richard Feynman:
+
 1. Choose a concept
 2. Explain it simply
 3. Identify gaps
@@ -74,4 +77,4 @@ Effective learning and knowledge management systems help you retain information,
 - [Spaced repetition — SuperMemo](https://www.supermemo.com/en/archives1990-2015/english/ol/sm2)
 - [Feynman Technique — Farnam Street](https://fs.blog/feynman-technique/)
 - [Building a Second Brain — Tiago Forte](https://www.buildingasecondbrain.com/)
-
+- [People and Ideas](../People-and-Ideas.md) — Context for Feynman and other thinkers referenced in these notes

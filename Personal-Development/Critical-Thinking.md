@@ -71,6 +71,8 @@ Write the reasoning in a simple form:
 
 ## References
 
+- Constance Missimer, [Critical Thinking at Work](https://www.criticalthinkingatwork.com/)
 - Daniel Kahneman, *Thinking, Fast and Slow*
 - Carl Sagan, *The Demon-Haunted World*
 - Richard Paul and Linda Elder, *The Miniature Guide to Critical Thinking Concepts and Tools*
+- [People and Ideas](../People-and-Ideas.md) — Context for the thinkers referenced across these notes

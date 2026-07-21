@@ -38,7 +38,7 @@ Structured approaches to making better decisions, complementing bias recognition
 
 ## Mental Models
 
-Building on Charlie Munger's work:
+Building on Charlie Munger's advocacy of multidisciplinary mental models and inversion:
 - First principles thinking
 - Second-order thinking
 - Inversion
@@ -68,4 +68,4 @@ Building on Charlie Munger's work:
 
 - de Bono, E. (1985). *Six Thinking Hats*. Little, Brown. [Wikipedia](https://en.wikipedia.org/wiki/Six_Thinking_Hats)
 - Munger, C. — Mental models: [Farnam Street — Mental Models](https://fs.blog/mental-models/) (curated overviews inspired by Munger’s approach)
-
+- [People and Ideas](../People-and-Ideas.md) — Context for Munger and other thinkers referenced here
