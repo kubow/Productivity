@@ -16,7 +16,7 @@ Remote and distributed work require deliberate habits for focus, communication, 
 ### Dedicated Workspace
 
 - When possible, a separate area for work (even a corner or desk) to signal “work mode.”
-- See [Workspace & Environment Optimization](../Self-Management/Workspace-Environment-Optimization.md) and [Getting Organized](../Self-Management/Getting-Organized.md).
+- See [Workspace & Environment Optimization](../Productivity-Techniques/Workspace-Environment-Optimization.md) and [Getting Organized](../Productivity-Techniques/Getting-Organized.md).
 
 ### Routines and Rituals
 

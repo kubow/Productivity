@@ -45,26 +45,9 @@ Visual workflow management:
 - **In Progress**: Currently working on
 - **Done**: Completed tasks
 
-## Prioritization Frameworks
+## Prioritize the System
 
-### MoSCoW Method
-- **Must have**: Critical
-- **Should have**: Important
-- **Could have**: Nice to have
-- **Won't have**: Not this time
-
-### RICE Scoring
-- **Reach**: How many people affected
-- **Impact**: How much impact
-- **Confidence**: How confident in estimates
-- **Effort**: How much work required
-
-### ABCDE Method
-- **A**: Must do
-- **B**: Should do
-- **C**: Nice to do
-- **D**: Delegate
-- **E**: Eliminate
+Task management stores and tracks commitments; prioritization decides which commitments deserve attention. See [Prioritization](./Prioritization.md) for urgency/importance, impact/effort, MoSCoW, RICE, and related approaches.
 
 ## Task Breakdown
 
@@ -78,8 +61,3 @@ Visual workflow management:
 - Allen, D. (2001). *Getting Things Done: The Art of Stress-Free Productivity*. Penguin. [GTD official](https://gettingthingsdone.com/)
 - Eisenhower Matrix: [Eisenhower Box](https://www.eisenhower.me/eisenhower-matrix/) (attributed to Dwight D. Eisenhower)
 - Kanban: [Kanban Guide](https://www.atlassian.com/agile/kanban) (Atlassian)
-
-## Resources
-
-- [ ] Add further resources and links here
-

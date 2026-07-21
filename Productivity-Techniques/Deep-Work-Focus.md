@@ -24,7 +24,7 @@ Productivity improves when you schedule and protect deep work instead of letting
 - Turn off notifications; use Do Not Disturb or focus mode.
 - Close tabs and apps not needed for the task.
 - Optional: separate device or profile for deep work only.
-- See [Digital Minimalism](./Digital-Minimalism.md) and [Concentration](../Personal-Development/Concentration.md).
+- See [Digital Minimalism](./Digital-Minimalism.md) and [Concentration](./Concentration.md).
 
 ### Create Rituals
 
@@ -47,7 +47,7 @@ Productivity improves when you schedule and protect deep work instead of letting
 
 - Do one task (or one type of task) per block.
 - Finish or pause deliberately; then switch only at block boundaries.
-- Use [Concentration](../Personal-Development/Concentration.md) (e.g. Pomodoro) to reinforce single-task blocks.
+- Use [Concentration](./Concentration.md) (e.g. Pomodoro) to reinforce single-task blocks.
 
 ### Reducing Switches
 
@@ -69,7 +69,7 @@ Productivity improves when you schedule and protect deep work instead of letting
 
 ## Related
 
-- [Concentration](../Personal-Development/Concentration.md) — Pomodoro, timeboxing, focus techniques
+- [Concentration](./Concentration.md) — Pomodoro, timeboxing, focus techniques
 - [Time Blocking & Calendar Management](./Time-Blocking-Calendar-Management.md) — Scheduling and theme days
 - [Digital Minimalism](./Digital-Minimalism.md) — Reducing digital distraction
 - [Routines](../Self-Management/Routines.md) — Morning and focus rituals
