@@ -1,0 +1,42 @@
+Self-Management/Mindset.md
+  s_f19b42056c8ce1::t_fdd174125ea644 56
+Self-Management/sleep/Sleep.md
+  s_f19b42056c8ce1::t_e4134214747009 1,3-32,38
+Self-Management/Exercise.md
+  s_f19b42056c8ce1::t_e4134214747009 1,3,5,7,9-13,15,17-20,22,24-42
+Self-Management/posture/Posture.md
+  s_f19b42056c8ce1::t_db353a6bfe4d24 1
+Self-Management/Recovery-Rest.md
+  s_f19b42056c8ce1::t_fdd174125ea644 16
+Self-Management/Procrastination.md
+  s_f19b42056c8ce1::t_fdd174125ea644 28,46,76
+Self-Management/Meditate.md
+  s_f19b42056c8ce1::t_e4134214747009 1,3-40
+Self-Management/motivation/Motivation-Drivers.md
+  s_f19b42056c8ce1::t_db353a6bfe4d24 1,3,5,7,9-16,18,20,22-49,53-54
+Self-Management/Eat_Drink.md
+  s_f19b42056c8ce1::t_e4134214747009 1,3,5-35
+Self-Management/proactive/Proactivity.md
+  s_f19b42056c8ce1::t_db353a6bfe4d24 1,3,5,7,9,11-13,15,17,19-25,27,29,31-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "56370878152f9e0ae82f27d5eadb1728d7c87b81",
+  "prompts": {},
+  "humans": {
+    "h_0907ec034f4a17": {
+      "author": "kubow <kube.kubow@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_f19b42056c8ce1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f84f7-a14f-78d2-b3ac-35ff85ee3eb9",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kubow <kube.kubow@gmail.com>"
+    }
+  }
+}
