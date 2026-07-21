@@ -1,19 +1,39 @@
+# Professional Skills
 
+## Overview
 
+Professional skill is the ability to produce reliable outcomes within a working environment. It combines domain expertise with communication, judgment, execution, and conduct.
 
-[How to Get Out of a Dead-End Job ](https://lifehacker.com/how-to-get-out-of-a-dead-end-job-1833516920)
+## Core Capabilities
 
-[How to Switch Careers, With Career Guru Joseph Liu ](https://lifehacker.com/how-to-switch-careers-with-career-guru-joseph-liu-1839639811)
+- **Domain competence:** Maintain the technical knowledge and standards required by the role.
+- **Execution:** Clarify outcomes, plan work, manage commitments, and communicate risks.
+- **Communication:** Adapt written and spoken communication to the audience and purpose.
+- **Judgment:** Use evidence, recognize uncertainty, and escalate consequential decisions appropriately.
+- **Collaboration:** Share information, resolve disagreements, and support collective outcomes.
+- **Reliability:** Keep commitments or renegotiate them before they fail.
+- **Ethics:** Protect confidentiality, disclose conflicts, and avoid misrepresenting evidence or contribution.
+- **Learning:** Seek feedback, reflect on results, and update skills as the field changes.
 
-[Take These 7 Small Steps To Make a Big Career Move ](https://www.dataquest.io/blog/take-these-7-small-steps-to-make-a-big-career-move/)
+## Build Evidence of Skill
 
-[How to Overcome That Awkward Silence in Interviews ](https://www.dataquest.io/blog/how-to-overcome-that-awkward-silence-in-interviews/)
+For each important capability, record a situation in which you used it, what you did, the result, and what you learned. Evidence is more useful than a long list of self-assigned adjectives.
 
+Use this record to guide development and support [résumés](./Resume-Cover-Letters.md), [interviews](./Job-Interview.md), and [performance discussions](./Performance-Career-Growth.md).
 
-## Resume
+## Professional Operating Habits
 
-[How to Create a Professional Résumé in Microsoft Word ](https://www.howtogeek.com/364686/how-to-create-a-professional-resume-in-microsoft-word/)
+- Confirm the intended outcome before starting substantial work.
+- Surface tradeoffs, dependencies, and risks early.
+- Document consequential decisions and ownership.
+- Match detail and channel to the audience.
+- Close communication loops.
+- Ask for feedback on observable behavior.
+- Protect time for learning and system improvement.
 
-[Make Updating Your Resume Way Easier With This Very Smart Tip ](https://lifehacker.com/make-updating-your-resume-way-easier-with-this-very-sma-1826797475)
+## Related
 
-
+- [Career Planning and Job Search](./Career-Planning-Job-Search.md)
+- [Project Management Basics](./Project-Management-Basics.md)
+- [Written Communication](../Interpersonal-Development/Written-Communication.md)
+- [Critical Thinking](../Personal-Development/Critical-Thinking.md)

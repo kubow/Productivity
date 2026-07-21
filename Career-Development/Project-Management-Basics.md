@@ -111,7 +111,3 @@ Fundamental project management skills for organizing and executing projects effe
 - Best of both
 - Adapt to project
 
-## Resources
-
-- [ ] Add resources and links here
-

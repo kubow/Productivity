@@ -100,7 +100,3 @@ Building and managing your personal brand to advance your career and professiona
 - Handle conflicts well
 - Professional relationships
 
-## Resources
-
-- [ ] Add resources and links here
-
