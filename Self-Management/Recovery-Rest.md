@@ -13,7 +13,7 @@ Productivity depends on sustained energy, not only hours worked. Recovery and de
 ## Types of Rest
 
 - **Physical** — Sleep, movement, stretching, reducing sedentary time; see [Sleep](./sleep/Sleep.md), [Exercise](./Exercise.md), [Posture](./posture/Posture.md).
-- **Mental** — Downtime without work or screens; breaks between focus blocks; see [Concentration](../Personal-Development/Concentration.md), [Energy Management](./Energy-Management.md).
+- **Mental** — Downtime without work or screens; breaks between focus blocks; see [Concentration](../Productivity-Techniques/Concentration.md), [Energy Management](./Energy-Management.md).
 - **Emotional** — Time with supportive people; activities that restore mood; boundaries; see [Stress Management](./Stress-Management-Techniques.md), [Boundaries](../Interpersonal-Development/Boundaries.md).
 - **Social** — Time alone if you’re often “on,” or connection if you’re isolated; see [Work-Life Integration](./Work-Life-Integration.md).
 - **Creative / sensory** — Nature, art, music, or play that isn’t work-related.

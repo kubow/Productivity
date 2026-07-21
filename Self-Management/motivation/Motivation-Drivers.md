@@ -1,39 +1,54 @@
-[How to Get People to Do Stuff | Psychology Today](https://www.psychologytoday.com/us/blog/brain-wise/201303/how-to-get-people-to-do-stuff)
+# Motivation Drivers
 
-7 drivers of Motivation:
+## Overview
 
-1. The Need to Belong
-2. Habits
-3. The Power of Stories
-4. Carrots and Sticks
-5. Instincts
-6. Tricks of the Mind
-7. The Desire for Mastery
+Motivation is not a fixed personal resource. It changes with needs, expectations, environment, task design, energy, and perceived progress. A good system reduces dependence on feeling motivated at the right moment.
 
-[3 Types of Motivation: What is driving you and how can you drive others? | Luxoft Blogs](https://www.luxoft.com/blog/3-types-of-motivation-what-is-driving-you-and-how-can-you-drive-others)
+## Common Drivers
 
-1. Need for Achievement
-2. Need for Affiliation
-3. Need for Power
+- **Autonomy:** Meaningful choice over how work is done
+- **Mastery:** Visible progress in a valued capability
+- **Purpose:** Connection between effort and a worthwhile outcome
+- **Belonging:** Contribution to and recognition by a group
+- **Achievement:** Completing a difficult or important challenge
+- **Security:** Reducing uncertainty or protecting something important
+- **Reward and consequence:** External incentives or costs
+- **Identity:** Acting consistently with the person you believe you are becoming
 
-Always remember:
+Different people and situations emphasize different drivers. External rewards can be useful, but they should not silently replace autonomy, fairness, or meaningful feedback.
 
-1. The past can't be changed.
-2. Opinions do not define your reality.
-3. Everyone's journey is different.
-4. Judgements are not about you.
-5. Overthinking will lead to sadness.
-6. Happiness is found within.
-7. Your thoughts affect your mood.
-8. Smiles are contagious.
-9. Kindness is free.
-10. It's okay to let go and move on.
-11. What goes around, comes around.
-12. Things always get better with time.
+## Diagnose Low Motivation
 
-[12 Things To Always Remember](https://themindsjournal.com/quotes/12-things-to-always-remember/)
+Ask:
+
+- Is the next action clear and small enough to begin?
+- Do I believe my effort can affect the outcome?
+- Does the outcome matter to me or someone I care about?
+- Is progress visible?
+- Is the task appropriately challenging?
+- Am I avoiding discomfort, uncertainty, conflict, or possible failure?
+- Is fatigue, stress, illness, or burnout the more accurate explanation?
+- Does the environment make the desired behavior unnecessarily difficult?
+
+## Design for Action
+
+- Connect the task to a chosen goal or value.
+- Reduce the first step until starting is easy.
+- Use a timebox and stop after the agreed interval if needed.
+- Make progress visible with a checklist, log, or completed artifact.
+- Add accountability through a clear commitment to another person.
+- Pair difficult work with an established routine and suitable environment.
+- Celebrate evidence of progress without requiring perfection.
+
+## Related
+
+- [Goal Setting](../Goal-Setting.md)
+- [Habit Systems](../Habit-Systems.md)
+- [Overcoming Procrastination](../Procrastination.md)
+- [Energy Management](../Energy-Management.md)
+- [Burnout Prevention and Recovery](../Burnout-Prevention-Recovery.md)
 
 ## References
 
-- Pink, D. *Drive: The Surprising Truth About What Motivates Us*. Riverhead. — Autonomy, mastery, purpose. [Wikipedia](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us)
-- [3 Types of Motivation — Luxoft](https://www.luxoft.com/blog/3-types-of-motivation-what-is-driving-you-and-how-can-you-drive-others) (Need for Achievement, Affiliation, Power)
+- Daniel Pink, *Drive: The Surprising Truth About What Motivates Us*
+- Edward Deci and Richard Ryan, Self-Determination Theory

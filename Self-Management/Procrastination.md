@@ -25,7 +25,7 @@ Procrastination is delaying tasks despite knowing the delay may cause problems. 
 
 - Set a short, fixed block (e.g. 25 min Pomodoro) and work only on the task.
 - No requirement to finish—only to work for the block.
-- See [Concentration](../Personal-Development/Concentration.md) and [Time Blocking & Calendar Management](../Productivity-Techniques/Time-Blocking-Calendar-Management.md).
+- See [Concentration](../Productivity-Techniques/Concentration.md) and [Time Blocking & Calendar Management](../Productivity-Techniques/Time-Blocking-Calendar-Management.md).
 
 ### Clarify and Simplify
 
@@ -43,7 +43,7 @@ Procrastination is delaying tasks despite knowing the delay may cause problems. 
 
 - Remove or hide distractions (phone, tabs, notifications).
 - Work in a space associated with focus.
-- See [Digital Minimalism](../Productivity-Techniques/Digital-Minimalism.md) and [Workspace & Environment Optimization](./Workspace-Environment-Optimization.md).
+- See [Digital Minimalism](../Productivity-Techniques/Digital-Minimalism.md) and [Workspace & Environment Optimization](../Productivity-Techniques/Workspace-Environment-Optimization.md).
 
 ### Address Perfectionism
 
@@ -73,5 +73,5 @@ Procrastination is delaying tasks despite knowing the delay may cause problems. 
 - [Goal Setting](./Goal-Setting.md) — Clear goals reduce vagueness that fuels procrastination
 - [Habit Systems](./Habit-Systems.md) — Building “start” habits supports consistency
 - [Motivation Drivers](./motivation/Motivation-Drivers.md) — Understanding what drives you helps design better tasks and rewards
-- [Concentration](../Personal-Development/Concentration.md) — Pomodoro and timeboxing
+- [Concentration](../Productivity-Techniques/Concentration.md) — Pomodoro and timeboxing
 - [Task Management](../Productivity-Techniques/Task-Management.md) — Clarify and organize so tasks feel doable

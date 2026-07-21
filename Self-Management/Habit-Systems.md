@@ -66,7 +66,3 @@ Building and maintaining productive habits using evidence-based systems.
 - Duhigg, C. (2012). *The Power of Habit: Why We Do What We Do in Life and Business*. Random House. [Wikipedia](https://en.wikipedia.org/wiki/The_Power_of_Habit)
 - Clear, J. (2018). *Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones*. Avery. [jamesclear.com/atomic-habits](https://jamesclear.com/atomic-habits)
 
-## Resources
-
-- [ ] Add further resources and links here
-

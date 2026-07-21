@@ -53,7 +53,7 @@ How you interpret effort, failure, and feedback shapes learning, persistence, an
 
 ## Related
 
-- [Bias](./bias/bias.md) — How biases affect how we interpret events
+- [Cognitive Biases](../Personal-Development/Cognitive-Biases.md) — How biases affect how we interpret events
 - [Proactivity](./proactive/Proactivity.md) — Taking initiative and responsibility
 - [Goal Setting](./Goal-Setting.md) — Learning goals and stretch goals
 - [Stress Management Techniques](./Stress-Management-Techniques.md) — Managing pressure and recovery
