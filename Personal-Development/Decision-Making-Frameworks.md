@@ -69,7 +69,3 @@ Building on Charlie Munger's work:
 - de Bono, E. (1985). *Six Thinking Hats*. Little, Brown. [Wikipedia](https://en.wikipedia.org/wiki/Six_Thinking_Hats)
 - Munger, C. — Mental models: [Farnam Street — Mental Models](https://fs.blog/mental-models/) (curated overviews inspired by Munger’s approach)
 
-## Resources
-
-- [ ] Add further resources and links here
-

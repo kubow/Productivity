@@ -33,7 +33,7 @@ Influence and persuasion are getting buy-in and moving others toward a shared ou
 ### Appeal to Emotion and Identity
 
 - Connect to values, identity, or shared purpose when relevant.
-- Stories and examples often stick more than abstract points; see [Storytelling](../Career-Development/Storytelling.md).
+- Stories and examples often stick more than abstract points; see [Storytelling](./Storytelling.md).
 
 ## Practical Tactics
 
@@ -53,8 +53,8 @@ Influence and persuasion are getting buy-in and moving others toward a shared ou
 
 - [Leadership Models](../Career-Development/Leadership-Models.md) — Leading without authority
 - [Delegation](../Career-Development/Delegation.md) — Getting others to take on work
-- [Storytelling](../Career-Development/Storytelling.md) — Making ideas memorable
-- [Present](../Career-Development/Present.md) — Presenting ideas clearly
+- [Storytelling](./Storytelling.md) — Making ideas memorable
+- [Presentation Skills](./Presentation-Skills.md) — Presenting ideas clearly
 - [Conflict Resolution](./Conflict-Resolution.md) — Finding agreement
 - [Effective Listening](./Effective-Listening.md) — Understanding before persuading
 - [Networking and Relationship Building](./Networking-Relationship-Building.md) — Building relationships that enable influence

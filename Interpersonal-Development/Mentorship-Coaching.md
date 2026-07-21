@@ -7,7 +7,7 @@ Mentorship is sustained guidance from someone with more experience; coaching is 
 ## Why It Matters for Productivity
 
 - **Faster learning** — Avoid repeating others’ mistakes; get feedback and direction.
-- **Better decisions** — Mentors and coaches help you see blind spots; see [Feedback](./Feedback.md) and [Bias](../Self-Management/bias/bias.md).
+- **Better decisions** — Mentors and coaches help you see blind spots; see [Feedback](./Feedback.md) and [Cognitive Biases](../Personal-Development/Cognitive-Biases.md).
 - **Career and performance** — Career advancement and job performance often depend on guidance and sponsorship.
 - **Team output** — Developing others multiplies impact; see [Leadership Models](../Career-Development/Leadership-Models.md) and [Delegation](../Career-Development/Delegation.md).
 

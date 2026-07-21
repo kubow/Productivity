@@ -35,7 +35,7 @@ Clear writing gets ideas across quickly, reduces back-and-forth, and builds prof
 
 - Formal for external or high-stakes; more casual for familiar colleagues when appropriate.
 - Avoid sarcasm or ambiguity in writing; tone is easy to misread.
-- See [Present](../Career-Development/Present.md) and [Storytelling](../Career-Development/Storytelling.md) for verbal tone.
+- See [Presentation Skills](./Presentation-Skills.md) and [Storytelling](./Storytelling.md) for verbal tone.
 
 ### One Purpose per Message
 
@@ -58,8 +58,8 @@ Clear writing gets ideas across quickly, reduces back-and-forth, and builds prof
 ## Related
 
 - [Email & Communication Management](../Productivity-Techniques/Email-Communication-Management.md) — Email workflow and management
-- [Present](../Career-Development/Present.md) — Verbal and visual presentation
-- [Storytelling](../Career-Development/Storytelling.md) — Narrative and structure in communication
+- [Presentation Skills](./Presentation-Skills.md) — Verbal and visual presentation
+- [Storytelling](./Storytelling.md) — Narrative and structure in communication
 - [Meeting Effectiveness](../Productivity-Techniques/Meeting-Effectiveness.md) — Agendas and follow-up notes
 - [Feedback](./Feedback.md) — Giving feedback in writing
 - [Saying No](./Saying-No.md) — Writing a clear “no” or alternative

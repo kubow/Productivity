@@ -59,7 +59,7 @@ Feedback is information about past behavior or work that helps someone adjust an
 ### Decide What to Use
 
 - You don’t have to act on every piece of feedback.
-- Weigh it: source, context, your goals; see [Decision-Making Frameworks](../Personal-Development/Decision-Making-Frameworks.md) and [Bias](../Self-Management/bias/bias.md).
+- Weigh it: source, context, your goals; see [Decision-Making Frameworks](../Personal-Development/Decision-Making-Frameworks.md) and [Cognitive Biases](../Personal-Development/Cognitive-Biases.md).
 - Thank them for the input either way; it encourages future feedback.
 
 ### Growth Mindset
