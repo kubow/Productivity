@@ -1,0 +1,40 @@
+Interpersonal-Development/Storytelling.md
+  s_f19b42056c8ce1::t_5246fa7c83d4f4 1-210
+Interpersonal-Development/Speech.md
+  s_f19b42056c8ce1::t_5246fa7c83d4f4 1-213
+Productivity-Techniques/Workspace-Environment-Optimization.md
+  s_f19b42056c8ce1::t_5246fa7c83d4f4 1-79
+Personal-Development/Cognitive-Biases.md
+  s_f19b42056c8ce1::t_5246fa7c83d4f4 1-597
+Productivity-Techniques/Concentration.md
+  s_f19b42056c8ce1::t_5246fa7c83d4f4 1-53
+Interpersonal-Development/Negotiation.md
+  s_f19b42056c8ce1::t_5246fa7c83d4f4 1-4,6-10,13-19,21-29,31-42,44-47,52-55,58-66,71-72
+  s_f19b42056c8ce1::t_b664b2c18f286f 5,11-12,20,30,43,48-51,56-57,67-70,73
+Interpersonal-Development/Presentation-Skills.md
+  s_f19b42056c8ce1::t_5246fa7c83d4f4 1-63
+Productivity-Techniques/Getting-Organized.md
+  s_f19b42056c8ce1::t_db353a6bfe4d24 1
+  s_f19b42056c8ce1::t_5246fa7c83d4f4 2-94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "5813ec87416fd8d8436134b7433bce2bc1e75c19",
+  "prompts": {},
+  "humans": {
+    "h_0907ec034f4a17": {
+      "author": "kubow <kube.kubow@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_f19b42056c8ce1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f84f7-a14f-78d2-b3ac-35ff85ee3eb9",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kubow <kube.kubow@gmail.com>"
+    }
+  }
+}
