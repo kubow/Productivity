@@ -1,0 +1,52 @@
+Self-Management/sleep/Sleep.md
+  s_f19b42056c8ce1::t_20ccdf691e7998 30-33
+Personal-Development/Critical-Thinking.md
+  s_f19b42056c8ce1::t_3d5d04d8beabb4 78
+Self-Management/Exercise.md
+  s_f19b42056c8ce1::t_20ccdf691e7998 43
+Interpersonal-Development/Written-Communication.md
+  s_f19b42056c8ce1::t_016e3e483fe903 58-63
+Interpersonal-Development/Speech.md
+  s_f19b42056c8ce1::t_016e3e483fe903 214-217
+Productivity-Techniques/Task-Management.md
+  s_f19b42056c8ce1::t_95ebf7f7032b75 64
+Interpersonal-Development/Saying-No.md
+  s_f19b42056c8ce1::t_016e3e483fe903 77
+Career-Development/Career-Planning-Job-Search.md
+  s_f19b42056c8ce1::t_4eb31106c7405e 50-55
+Productivity-Techniques/Time-Blocking-Calendar-Management.md
+  s_f19b42056c8ce1::t_95ebf7f7032b75 92
+Personal-Development/Problem-Solving.md
+  s_f19b42056c8ce1::t_3d5d04d8beabb4 58-63
+Career-Development/Professional.md
+  s_f19b42056c8ce1::t_4eb31106c7405e 34-38
+Interpersonal-Development/Effective-Listening.md
+  s_f19b42056c8ce1::t_016e3e483fe903 62-65
+Self-Management/Mindset.md
+  s_f19b42056c8ce1::t_20ccdf691e7998 53
+Personal-Development/Learning-Knowledge-Management.md
+  s_f19b42056c8ce1::t_3d5d04d8beabb4 80
+Career-Development/Resume-Cover-Letters.md
+  s_f19b42056c8ce1::t_4eb31106c7405e 53-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "e894c46346958dd008a9e395a3b1dd3e93ce832d",
+  "prompts": {},
+  "humans": {
+    "h_0907ec034f4a17": {
+      "author": "kubow <kube.kubow@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_f19b42056c8ce1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f84f7-a14f-78d2-b3ac-35ff85ee3eb9",
+        "model": "gpt-5.4"
+      },
+      "human_author": "kubow <kube.kubow@gmail.com>"
+    }
+  }
+}
