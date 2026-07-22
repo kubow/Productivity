@@ -77,4 +77,5 @@ Named for an explanatory approach associated with physicist and teacher Richard 
 - [Spaced repetition — SuperMemo](https://www.supermemo.com/en/archives1990-2015/english/ol/sm2)
 - [Feynman Technique — Farnam Street](https://fs.blog/feynman-technique/)
 - [Building a Second Brain — Tiago Forte](https://www.buildingasecondbrain.com/)
+- [How to Reduce the Number of Times You Forget Things Each Day](https://lifehacker.com/how-to-reduce-the-number-of-times-you-forget-things-eac-1832621933)
 - [People and Ideas](../People-and-Ideas.md) — Context for Feynman and other thinkers referenced in these notes

@@ -55,6 +55,12 @@ Clear writing gets ideas across quickly, reduces back-and-forth, and builds prof
 - Cut anything that doesn’t serve the reader.
 - Check: “If I knew nothing about this, would I understand?”
 
+## Recommended References
+
+- [6 ways to write irresistibly effective emails](https://www.inc.com/jeff-haden/6-ways-to-write-irresistibly-effective-emails.html)
+- [6 simple ways to make your emails more impactful](https://fundbox.com/blog/6-simple-ways-to-make-your-emails-more-impactful/)
+- [Summarize Long Emails at the Top to Communicate More Effectively](https://lifehacker.com/summarize-long-emails-at-the-top-to-communicate-more-ef-1826571389)
+
 ## Related
 
 - [Email & Communication Management](../Productivity-Techniques/Email-Communication-Management.md) — Email workflow and management

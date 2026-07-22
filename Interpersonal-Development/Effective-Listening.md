@@ -59,6 +59,10 @@ Effective listening is giving full attention, understanding before responding, a
 - Use “I” statements when you respond; avoid blame.
 - Check: “What would need to be true for you to feel okay with X?”
 
+## Recommended References
+
+- [How to Really Listen in Conversations](https://lifehacker.com/how-to-really-listen-in-conversations-1826204542)
+
 ## Related
 
 - [Conflict Resolution](./Conflict-Resolution.md) — Listening in conflict

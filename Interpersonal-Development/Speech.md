@@ -211,3 +211,7 @@ Effective vocal delivery is crucial for engaging your audience and conveying you
 - Rest your voice when needed
 
 ---
+
+## Recommended References
+
+- [How to Speak in Front of Large Groups of People When You're an Introvert and It Terrifies You](https://verysmartbrothas.theroot.com/how-to-speak-in-front-of-large-groups-of-people-when-yo-1825786173)

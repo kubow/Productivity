@@ -89,7 +89,7 @@ Using time blocking and effective calendar management to take control of your sc
 
 ## Resources
 
+- [Make Your Days More Productive By Timeboxing](https://lifehacker.com/make-your-days-more-productive-by-timeboxing-1832508849)
 - [Time blocking — Calendar](https://www.calendar.com/blog/time-blocking/)
 - [Theme days and batching — Asana](https://asana.com/resources/time-blocking)
 - [Calendar best practices — Harvard Business Review](https://hbr.org/2019/01/how-to-make-your-calendar-a-tool-for-better-work-life-balance)
-

@@ -75,4 +75,5 @@ Write the reasoning in a simple form:
 - Daniel Kahneman, *Thinking, Fast and Slow*
 - Carl Sagan, *The Demon-Haunted World*
 - Richard Paul and Linda Elder, *The Miniature Guide to Critical Thinking Concepts and Tools*
+- [Why Even Optimists Should Embrace Their Pessimistic Side](https://lifehacker.com/why-even-optimists-should-embrace-their-pessimistic-sid-1829779304)
 - [People and Ideas](../People-and-Ideas.md) — Context for the thinkers referenced across these notes

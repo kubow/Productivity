@@ -55,6 +55,12 @@ Compare options by expected impact, effort, risk, reversibility, time to learn, 
 - Launching a large solution without a feedback loop
 - Failing to define who owns the next action
 
+## References
+
+- Ohno, T. *Toyota Production System* — Origin of the Five Whys approach in manufacturing problem analysis.
+- de Bono, E. *Lateral Thinking: Creativity Step by Step* — Alternative approaches when straightforward analysis stalls.
+- [People and Ideas](../People-and-Ideas.md) — Background on some of the thinkers referenced across these notes
+
 ## Related
 
 - [Critical Thinking](./Critical-Thinking.md)

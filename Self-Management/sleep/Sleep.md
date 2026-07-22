@@ -27,6 +27,10 @@ Sleep supports health, learning, emotional regulation, and sustainable performan
 - [Recovery and Deliberate Rest](../Recovery-Rest.md)
 - [Stress Management](../Stress-Management-Techniques.md)
 
+## Recommended References
+
+- [Celebrate World Sleep Day by Adopting One of These Healthy Habits](https://www.lifesavvy.com/19200/celebrate-world-sleep-day-by-adopting-one-of-these-healthy-habits/)
+
 ## Archived Visual References
 
 These graphics are retained as collected resources and should not replace individualized clinical guidance.

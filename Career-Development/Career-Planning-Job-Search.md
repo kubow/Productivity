@@ -47,6 +47,12 @@ Consider role content, manager quality, team health, learning, autonomy, advance
 - Set a 30/60/90-day learning plan.
 - Clarify early expectations, stakeholders, decision rights, and feedback cadence.
 
+## Recommended References
+
+- [How to Switch Careers, With Career Guru Joseph Liu](https://lifehacker.com/how-to-switch-careers-with-career-guru-joseph-liu-1839639811)
+- [How to Get Out of a Dead-End Job](https://lifehacker.com/how-to-get-out-of-a-dead-end-job-1833516920)
+- [Take These 7 Small Steps To Make a Big Career Move](https://www.dataquest.io/blog/take-these-7-small-steps-to-make-a-big-career-move/)
+
 ## Related
 
 - [Résumé and Cover Letters](./Resume-Cover-Letters.md)

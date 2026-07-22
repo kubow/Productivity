@@ -61,3 +61,4 @@ Task management stores and tracks commitments; prioritization decides which comm
 - Allen, D. (2001). *Getting Things Done: The Art of Stress-Free Productivity*. Penguin. [GTD official](https://gettingthingsdone.com/)
 - Eisenhower Matrix: [Eisenhower Box](https://www.eisenhower.me/eisenhower-matrix/) (attributed to Dwight D. Eisenhower)
 - Kanban: [Kanban Guide](https://www.atlassian.com/agile/kanban) (Atlassian)
+- [Time Blocking & Calendar Management](./Time-Blocking-Calendar-Management.md) — Useful when tasks are clear but time needs to be explicitly reserved

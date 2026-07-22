@@ -40,3 +40,4 @@ Stop and seek appropriate medical guidance for alarming symptoms, significant in
 
 - [Office-friendly stretches](https://www.lifesavvy.com/7575/save-your-back-from-your-desk-with-these-5-office-friendly-stretches/)
 - [Flexibility practice](https://vitals.lifehacker.com/lets-work-on-our-flexibility-1842104101)
+- [How to Improve Your Ankle Mobility for Squats](https://vitals.lifehacker.com/how-to-improve-your-ankle-mobility-for-squats-1842315361)

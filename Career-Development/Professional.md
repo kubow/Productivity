@@ -31,6 +31,11 @@ Use this record to guide development and support [résumés](./Resume-Cover-Lett
 - Ask for feedback on observable behavior.
 - Protect time for learning and system improvement.
 
+## Recommended References
+
+- [How to Get Out of a Dead-End Job](https://lifehacker.com/how-to-get-out-of-a-dead-end-job-1833516920)
+- [How to Switch Careers, With Career Guru Joseph Liu](https://lifehacker.com/how-to-switch-careers-with-career-guru-joseph-liu-1839639811)
+
 ## Related
 
 - [Career Planning and Job Search](./Career-Planning-Job-Search.md)

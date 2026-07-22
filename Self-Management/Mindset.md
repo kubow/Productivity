@@ -50,6 +50,7 @@ How you interpret effort, failure, and feedback shapes learning, persistence, an
 
 - Dweck, C. (2006). *Mindset: The New Psychology of Success*. Random House. [Wikipedia](https://en.wikipedia.org/wiki/Carol_Dweck#Mindset:_The_New_Psychology_of_Success)
 - Positive psychology and resilience: [American Psychological Association — Resilience](https://www.apa.org/topics/resilience)
+- [How to Change Your Personality](https://lifehacker.com/how-to-change-your-personality-1830317055)
 
 ## Related
 

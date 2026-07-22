@@ -74,6 +74,7 @@ Leave the door open and encourage them.
 
 - McKeown, G. *Essentialism: The Disciplined Pursuit of Less*. — Saying no to the nonessential so the right things get done.
 - [How to say no — Harvard Business Review](https://hbr.org/2022/01/the-power-of-saying-no)
+- [How to Cancel Plans Without Pissing Someone Off](https://lifehacker.com/how-to-cancel-plans-without-pissing-someone-off-1826194573)
 - Victoria Repa | BetterMe (source of the 8-tips infographic).
 
 ## Related

@@ -50,6 +50,11 @@ Avoid repeating the résumé paragraph by paragraph.
 - File name is professional and identifiable.
 - Another person has reviewed it for clarity and errors.
 
+## Recommended References
+
+- [How to Create a Professional Resume in Microsoft Word](https://www.howtogeek.com/364686/how-to-create-a-professional-resume-in-microsoft-word/)
+- [Make Updating Your Resume Way Easier With This Very Smart Tip](https://lifehacker.com/make-updating-your-resume-way-easier-with-this-very-sma-1826797475)
+
 ## Related
 
 - [Career Planning and Job Search](./Career-Planning-Job-Search.md)
